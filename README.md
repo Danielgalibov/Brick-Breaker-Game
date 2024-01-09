@@ -4,3 +4,5 @@
 
 ### Utilizes Java JFrame Package, Javax.Swing Package,  Java.AWT Package for Graphical Components and Event Listening, 
 
+# Breakdown of Game Components and Logic to align with the comments in the code itself
+  
